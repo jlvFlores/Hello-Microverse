@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>README Template</b> <h3>
+  <h3><b>Microverse README Template</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -12,13 +12,16 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -57,6 +60,16 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is a link to the demo project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -92,6 +105,11 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Deployment
+
+You can deploy this project using:
+    Using Github Pages
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -104,13 +122,15 @@ To run tests, run the following command:
 - Twitter: [@JoseVaz44312762](https://twitter.com/JoseVaz44312762)
 - LinkedIn: [Jose Vazquez](https://www.linkedin.com/in/jose-vazquez-178a8225a/)
 
-👤 **Author2**
+<!-- FUTURE FEATURES -->
 
-- GitHub: [@theShadow](https://github.com/andilemashala)
+## 🔭 Future Features <a name="future-features"></a>
 
-👤 **Author3**
+> The following are the future features that will be added to the project.
 
-- GitHub: [@Javier Salinas](https://github.com/javier-salinas)
+- [ ] **[It_will_have_a_body_section]**
+- [ ] **[It_will_have_a_navbar_section]**
+- [ ] **[It_will_not_take_over_the_world]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +141,16 @@ To run tests, run the following command:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Message of encouragement.
+
+If you like this project you can buy me a coffee UwU
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
